@@ -18,19 +18,19 @@
     "links": [
       {
         "name": "Website",
-        "url": "https://github.com/Vonng/grafana-echarts"
+        "url": "https://github.com/Vonng/vonng-grafana-echarts"
       },
       {
         "name": "License",
-        "url": "https://github.com/Vonng/grafana-echarts/blob/master/LICENSE"
+        "url": "https://github.com/Vonng/vonng-grafana-echarts/blob/master/LICENSE"
       }
     ],
     "screenshots": [],
     "version": "2.2.4",
-    "updated": "2021-05-19"
+    "updated": "2021-07-21"
   },
   "dependencies": {
-    "grafanaVersion": "6.3.x",
+    "grafanaVersion": "8.0.x",
     "plugins": []
   }
 }
