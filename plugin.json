@@ -1,0 +1,36 @@
+{
+  "type": "panel",
+  "name": "Echarts",
+  "id": "vonng-echarts-panel",
+  "info": {
+    "description": "Echarts panel for grafana",
+    "author": {
+      "name": "Vonng",
+      "url": "https://github.com/Vonng"
+    },
+    "keywords": [
+      "echarts"
+    ],
+    "logos": {
+      "small": "img/logo.png",
+      "large": "img/logo.png"
+    },
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://github.com/Vonng/grafana-echarts"
+      },
+      {
+        "name": "License",
+        "url": "https://github.com/Vonng/grafana-echarts/blob/master/LICENSE"
+      }
+    ],
+    "screenshots": [],
+    "version": "2.2.4",
+    "updated": "2021-05-19"
+  },
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}
